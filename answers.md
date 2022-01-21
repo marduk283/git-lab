@@ -42,3 +42,25 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   README.md
         new file:   answers.md
+
+7.
+On branch master
+nothing to commit, working tree clean
+
+8.
+commit 6909440fe60d064a84d02f45258ecf31f50aa22c (HEAD -> main, origin/main)
+Author: Jackson Kauflin <jk491120@ohio.edu>
+Date:   Fri Jan 21 14:14:51 2022 -0500
+
+    Initial commit poggers
+
+9.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
