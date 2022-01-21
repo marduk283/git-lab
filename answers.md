@@ -64,3 +64,22 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+10.
+The change I made online wasn't reflected in my local copy because it hasn't been pulled in yet.
+
+11.
+To https://github.com/Marduk28/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Marduk28/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+12.
+The change I made online is now reflected in my local copy.
+
+13.
+.  ..  .git  .gitignore  README.md
